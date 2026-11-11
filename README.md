@@ -68,8 +68,8 @@
 
 ## 📚 Данные
 
-Источник датасета: *(вставьте ссылку и название)*. 3 900 записей о покупках клиентов розничной сети.
+Источник датасета: [Zepto inventory dataset](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset). 3 900 записей о покупках клиентов розничной сети.
 
 ## 📄 Презентация
 
-[Открыть презентацию](./presentation/customer-behaviour.pdf) · 
+[Открыть презентацию](./presentation/customer_behaviour.pdf) 
